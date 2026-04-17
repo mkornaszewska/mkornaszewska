@@ -21,7 +21,7 @@ Java + REST Assured       →  API test automation (production experience)
 
 ## 🛠️ Tools & tech
 
-`Jira` `Confluence` `TestLink` `Git` `Browser DevTools` `Kibana` `Grafana` `LibreOffice`
+`Postman` `REST Assured` `Playwright` `Jira` `Confluence` `TestLink` `Git` `Browser DevTools` `Kibana` `Grafana` 
 
 ---
 
